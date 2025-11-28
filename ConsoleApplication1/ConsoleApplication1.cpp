@@ -12,6 +12,11 @@ void main()
     printf("Гpyппа: ИСЭбд-11-2025\n");
     printf("\n");
     printf("\n");
+
+    printf("Маслова\n");
+    printf("Ксения\n");
+    printf("Сергеевна\n");
+
     printf("\n");
     printf("Маслова\n");
     printf("Ксения\n");
