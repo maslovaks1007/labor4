@@ -6,7 +6,12 @@ void main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
 
-
+    printf("Сергеевна\n");
+    printf("Ксения\n");
+    printf("Маслова\n")
+    printf("Сергеевна\n");
+    printf("Ксения\n");
+    printf("Маслова\n")
     printf("Сергеевна\n");
     printf("Ксения\n");
     printf("Маслова\n")
